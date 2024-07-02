@@ -10,9 +10,7 @@
 </h3>
 <p align="center"> 
   <samp>
-    <br>
     「 Web developer from <b>Argentina</b> 」
-    <br>
     <br>
   </samp>
 </p>
