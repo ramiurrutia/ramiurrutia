@@ -12,13 +12,13 @@
  <a href="" target="_blank">
   <img src="sources/img/internet.png" alt="ramiurrutia" height="60"/>
  </a>
- <a href="www.linkedin.com/in/ramiurrutia" target="blank">
+ <a href="https://www.linkedin.com/in/ramiurrutia/" target="_blank">
   <img src="sources/img/linkedin.png" alt="ramiurrutia" height="60"/>
  </a>
-<a href="https://dev.to/ramiurrutia" target="blank">
+<a href="https://dev.to/ramiurrutia" target="_blank">
   <img src="sources/img/devto.png" alt="ramiurrutia" height="60"/>
  </a>
- <a href="https://instagram.com/ramiiurrutiaa" target="blank">
+ <a href="https://instagram.com/ramiiurrutiaa" target="_blank">
   <img src="sources/img/instagram.png" alt="ramiurrutia" height="60"/>
  </a>
 </p>
